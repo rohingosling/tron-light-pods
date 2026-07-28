@@ -5,12 +5,11 @@
 ![Windows](https://img.shields.io/badge/Platform-Win32-0078D6?style=flat&logo=windows&logoColor=white)
 ![CMake](https://img.shields.io/badge/Build-CMake_%2B_Ninja-064F8C?style=flat&logo=cmake&logoColor=white)
 ![GCC](https://img.shields.io/badge/Compiler-GCC-4EAA25?style=flat&logo=gnu&logoColor=white)
-![License](https://img.shields.io/badge/License-All_Rights_Reserved-red?style=flat)
 
 A game inspired by the light cycle game from the original 1982 movie, **Tron**.
 
 <p align="center">
-  <img src="assets/video/demo-1.webp" alt="Tron Light Pods">
+  <img src="assets/gif/demo-1.webp" alt="Tron Light Pods">
 </p>
 
 **Tron Light Pods** is a game demo written in 1999 to attract VC capital for a new game studio. The project ultimately never got off the ground, but the demo remains.
